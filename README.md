@@ -1,4 +1,4 @@
-JUNK DROPPER
+JUNK FOOD DROPPER
 
 Project for Health class
 
